@@ -58,7 +58,7 @@
 
         do
         {
-            printf("\nMenú de Opciones:\n");
+            printf("\n-------Menú de Opciones:-------\n");
             printf("1. Vender producto\n");
             printf("2. Reabastecer producto\n");
             printf("3. Mostrar información del producto\n");
